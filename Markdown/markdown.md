@@ -1,3 +1,4 @@
+# Markdown
 ## Navigation
 
 * [Readme](../README.md)
@@ -15,3 +16,9 @@
    * [Horizontal Rule](horizontal_rule.md)
    * [Line Breaks](line_breaks.md)
    * [Escaping](escaping.md)
+
+---
+
+## Description
+
+* technical implementation of the markup language "Markdown" on github.com
