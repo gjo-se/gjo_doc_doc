@@ -17,7 +17,7 @@
    * [Horizontal Rule](horizontal_rule.md)
    * [Line Breaks](line_breaks.md)
    * [Escaping](escaping.md)
-   
+
 
 ## Inline-Links
 
